@@ -1,0 +1,1 @@
+This is a B2B buyer assistant for our nutrition catalog. It delivers personalized customer interactions with an autonomous AI agent. Agentforce for B2B Guided Shopping supports buyers with common inquiries related to products and orders.

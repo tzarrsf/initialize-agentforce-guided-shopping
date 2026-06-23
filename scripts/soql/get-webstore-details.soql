@@ -1,0 +1,2 @@
+SELECT Id, Name, Description, CheckoutTimeToLive, CurrencyIsoCode, DefaultLanguage FROM WebStore
+WHERE Name in ('B2B Store','commercepractice','D2C Store')
