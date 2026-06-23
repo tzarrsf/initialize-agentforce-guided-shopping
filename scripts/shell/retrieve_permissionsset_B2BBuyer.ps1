@@ -1,0 +1,1 @@
+sf project retrieve start --metadata "PermissionSet:force__B2BBuyer" --target-org "initialize-agentforce-guided-shopping"

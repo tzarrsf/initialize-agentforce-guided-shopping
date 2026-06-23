@@ -38,14 +38,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>ExternalCredential</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>NamedCredential</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>PermissionSet</name>
     </types>
     <types>
