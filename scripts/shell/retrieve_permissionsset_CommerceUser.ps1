@@ -1,1 +1,1 @@
-sf project retrieve start --metadata "PermissionSet:force__CommerceUser" --target-org "initialize-agentforce-guided-shopping"
+sf project retrieve start --metadata "PermissionSet:force__CommerceUser"

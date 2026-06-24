@@ -10,7 +10,7 @@ System.debug('User Id: ' + u.Id + ' | Username: ' + u.Username + ' | Name: ' + u
 Set<String> targetPermissionSetNames = new Set<String>{
     'AgentforceServiceAgentUser',
     'CommerceUser',
-    'Buyer'
+    'B2BBuyer'
 };
 
 List<PermissionSet> permissionSets = [

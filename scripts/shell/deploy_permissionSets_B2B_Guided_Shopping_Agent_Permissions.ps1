@@ -1,1 +1,0 @@
-sf project deploy start --metadata "PermissionSet:B2B_Guided_Shopping_Agent_Permissions"
