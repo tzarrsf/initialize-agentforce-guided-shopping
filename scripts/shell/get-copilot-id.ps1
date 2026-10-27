@@ -1,1 +1,1 @@
-sf data query --query "SELECT Id, DeveloperName, MasterLabel FROM BotDefinition WHERE MasterLabel = 'Agentforce for Guided Shopping - B2B & D2C'"
+sf data query --query "SELECT Id, DeveloperName, MasterLabel FROM BotDefinition WHERE MasterLabel = 'Agentforce for Guided Shopping - B2B'"
